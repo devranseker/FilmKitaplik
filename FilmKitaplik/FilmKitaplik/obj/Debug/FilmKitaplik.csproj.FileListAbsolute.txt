@@ -1,0 +1,10 @@
+C:\Users\devra\Desktop\C# Projelerim\FilmKitaplik\FilmKitaplik\bin\Debug\FilmKitaplik.exe.config
+C:\Users\devra\Desktop\C# Projelerim\FilmKitaplik\FilmKitaplik\bin\Debug\FilmKitaplik.exe
+C:\Users\devra\Desktop\C# Projelerim\FilmKitaplik\FilmKitaplik\bin\Debug\FilmKitaplik.pdb
+C:\Users\devra\Desktop\C# Projelerim\FilmKitaplik\FilmKitaplik\obj\Debug\FilmKitaplik.csproj.AssemblyReference.cache
+C:\Users\devra\Desktop\C# Projelerim\FilmKitaplik\FilmKitaplik\obj\Debug\FilmKitaplik.Form1.resources
+C:\Users\devra\Desktop\C# Projelerim\FilmKitaplik\FilmKitaplik\obj\Debug\FilmKitaplik.Properties.Resources.resources
+C:\Users\devra\Desktop\C# Projelerim\FilmKitaplik\FilmKitaplik\obj\Debug\FilmKitaplik.csproj.GenerateResource.cache
+C:\Users\devra\Desktop\C# Projelerim\FilmKitaplik\FilmKitaplik\obj\Debug\FilmKitaplik.csproj.CoreCompileInputs.cache
+C:\Users\devra\Desktop\C# Projelerim\FilmKitaplik\FilmKitaplik\obj\Debug\FilmKitaplik.exe
+C:\Users\devra\Desktop\C# Projelerim\FilmKitaplik\FilmKitaplik\obj\Debug\FilmKitaplik.pdb
